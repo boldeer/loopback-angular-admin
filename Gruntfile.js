@@ -28,7 +28,7 @@ module.exports = function (grunt) {
       development: 'http://boldeer.wuweixing.com:4001',
       production: 'http://www.boldeer.net'
     },
-    host: 'http://www.boldeer.net'
+    host: '0.0.0.0'
   };
 
   // Define the configuration for all the tasks
