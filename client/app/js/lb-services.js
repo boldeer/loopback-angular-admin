@@ -11,7 +11,7 @@ if (typeof module !== 'undefined' && typeof exports !== 'undefined' && module.ex
 
 (function(window, angular, undefined) {'use strict';
 
-var urlBase = "http://stg1.boldeer.net/api/v1";
+var urlBase = "http://www.boldeer.net/api/v1";
 var authHeader = 'authorization';
 
 function getHost(url) {
